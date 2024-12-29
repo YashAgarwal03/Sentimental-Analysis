@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+scikit-learn
+python-box
+ensure
+pyYAML
+Flask
+-e .
